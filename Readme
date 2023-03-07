@@ -1,0 +1,11 @@
+Bu bir kişisel projedir.
+Afet bilgilendirme sistemi üzerine yazılmakta olan bir web application'dır.
+
+Kullanılmakta olan teknolojiler ;
+-NodeJs
+-ExpressJs
+-MongoDB
+-Html
+-Css
+-Bootstrap
+-RestAPI

@@ -9,3 +9,13 @@ Kullanılmakta olan teknolojiler ;
 -Css
 -Bootstrap
 -RestAPI
+
+<hr>
+
+Afet Bilgilendirme sistemi web uygulaması yapısı/mimarisi şu şekilde oluşturulacaktır =>
+- Telekominikasyon Personeli Sayfası
+- Yönetim Paneli/Sayfası
+- Afetzede Bilgilendirme Sayfası/Sayfaları
+- Malzeme (erzak, battaniye , ısıtma cihazları ,su vb ..) Sayfası
+- Müdahale Ekibi Personel Sayfası (Teçhizat bilgileri kapsar !)
+
